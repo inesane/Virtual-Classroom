@@ -13,7 +13,7 @@ Other than rendering the basic classroom and allowing participants to join the c
 
 Instructions to run:
 
-Download and install .apk
+Download and install .apk (Can be found in the report)
 
 
 Presentation for the project with demo videos:
